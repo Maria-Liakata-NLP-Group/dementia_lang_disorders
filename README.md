@@ -11,6 +11,7 @@
 - [License](#license)
 
 
-- [Data](#data)
+## Data
+
 
 This work utilizes the Pit and ADReSS dementia corpora. Access to the data is password-protected and restricted to individuals who have signed an agreement. For additional information, please visit the DementiaBank website.
