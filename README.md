@@ -8,7 +8,7 @@
 - [Data](#data)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Athor](#athor)
+- [Author](#author)
 - [License](#license)
 
 ## Data
@@ -26,7 +26,7 @@ This work utilizes the Pit and ADReSS dementia corpora. Access to the data is pa
 
 
 
-## Athor
+## Author
 Dimitris Gkoumas. For more information, please visit [gkoumasd.github.io](https://gkoumasd.github.io)  
 
 
