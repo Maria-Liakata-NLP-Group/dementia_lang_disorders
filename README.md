@@ -1,4 +1,4 @@
-# NLP for Dementia
+# Reformulated NLP Tasks for Capturing Language Disorders in Dementia
 
 ## This repository contains the implementation code for the paper titled "Reformulating NLP Tasks to Capture the Longitudinal Manifestation of Language Disorders in Individuals with Dementia."
 
