@@ -1,6 +1,6 @@
 # Reformulated NLP Tasks for Capturing Language Disorders in Dementia
 
-## This repository contains the implementation code for the paper titled [Reformulating NLP Tasks to Capture the Longitudinal Manifestation of Language Disorders in Individuals with Dementia.](https://aclanthology.org/2023.emnlp-main.986.pdf){:target="_blank"}
+## This repository contains the implementation code for the paper titled [Reformulating NLP Tasks to Capture the Longitudinal Manifestation of Language Disorders in Individuals with Dementia.](https://aclanthology.org/2023.emnlp-main.986.pdf)
 
 
 
