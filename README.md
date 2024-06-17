@@ -1,6 +1,6 @@
 
 
-# This repository contains the implementation code for the paper titled [Reformulating NLP Tasks to Capture the Longitudinal Manifestation of Language Disorders in Individuals with Dementia.](https://aclanthology.org/2023.emnlp-main.986.pdf)
+# This repository contains the implementation code for the paper titled [Feedback-aligned Mixed LLMs for Machine Language-Molecule Translation](https://arxiv.org/pdf/2405.13984)
 
 
 
